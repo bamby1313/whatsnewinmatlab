@@ -4,5 +4,5 @@ You will find multiple "What's New" cheat sheets (pdf format) for different rele
 
 All new features are available in the ***Release Notes*** section ([link to the documentation](https://www.mathworks.com/help/matlab/release-notes.html)).   
 
-![Image: What's New in MATLAB for R2022b]()  
+![Image: What's New in MATLAB for R2022b](https://github.com/bamby1313/whatsnewinmatlab/blob/main/whatsnewR2022b.png?raw=true)  
 
